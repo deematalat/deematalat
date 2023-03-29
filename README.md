@@ -50,12 +50,19 @@ I'm excited to put my talents to work assisting you in realizing your ideas.
 <br />
 
 ### Languages and Tools:
+[<img src="https://github.com/dart-lang/logos/blob/master/logos_and_wordmarks/dart-logo.png" width="32" alt="Dart" />][dart]
+[<img src="https://github.com/flutter/website/blob/master/src/_assets/image/flutter-lockup.png?raw=true" width="32" alt="Flutter" />][flutter]
+[<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_html.svg" width="32" alt="HTML" />][html]
+[<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_css.svg" width="32" alt="CSS" />][css]
+[<img src="https://github.com/firebase/firebaseui-web/raw/master/public/firebaseui.png" width="32" alt="Firebase" />][firebase]
+[<img src="https://github.com/laravel/art/blob/master/laravel-logo.png" width="32" alt="Laravel" />][laravel]
 
-<img align="left" alt="Flutter" width="26px" src="https://github.com/MoomenALdahdouh/moomenaldahdouh/blob/main/assets/flutter.png" />
-<img align="left" alt="Dart" width="26px" src="https://github.com/MoomenALdahdouh/moomenaldahdouh/blob/main/assets/dart.png" />
-<i class="fa-solid fa-database"></i>
-<i class="fa-solid fa-fire"></i>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/MoomenALdahdouh/moomenaldahdouh/blob/main/assets/vscode.png" />
+[dart]: https://dart.dev/
+[flutter]: https://flutter.dev/
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[firebase]: https://firebase.google.com/
+[laravel]: https://laravel.com/
 
 <br />
 <br />
