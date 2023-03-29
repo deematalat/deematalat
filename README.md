@@ -42,10 +42,9 @@ I'm excited to put my talents to work assisting you in realizing your ideas.
 - 😄 Pronouns: she/her
 
 ### Connect with me:
-<i class="fa-brands fa-github"></i>
-<i class="fa-brands fa-linkedin"></i>
-<i class="fa-brands fa-twitter"></i>
-<i class="fa-brands fa-instagram"></i>
+ [![Email](/path/to/email/icon.png)](mailto:deematalat3@gamil.com)
+[![LinkedIn](<i class="fa-brands fa-twitter"></i>)](https://www.linkedin.com/in/deematalat/)
+[![Twitter](/path/to/twitter/icon.png)](https://twitter.com/deema_talat)
 
 <br />
 
