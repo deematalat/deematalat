@@ -1,5 +1,5 @@
 
-### Hi there, I'm Deema 👋
+# Hi there, I'm Deema 👋
 
 Thanks for visiting! I'm confident that you've found the right person for your project needs.
 I'm dedicated to delivering results that live up to your expectations,
@@ -31,7 +31,7 @@ I'm passionate about this industry, and by devoting the majority of my time to i
 I'm able to provide outcomes that are above and beyond project objectives.
 I'm excited to put my talents to work assisting you in realizing your ideas.
 
-# Working with you will be an absolute pleasure.
+### Working with you will be an absolute pleasure.
 
 ## Skills and Experience
 
