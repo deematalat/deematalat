@@ -40,12 +40,6 @@ I'm excited to put my talents to work assisting you in realizing your ideas.
 - 💬 Ask me about Flutter, Dart, or anything related to mobile and web development.
 - 📫 How to reach me:  deematalat3@gmail.com
 - 😄 Pronouns: she/her
-
-### Connect with me:
-  [<img src="https://github.com/email-icons/vscode-icons/blob/master/icons/file_type_html.svg" width="32" alt="email" />][email](mailto:deematalat3@gamil.com)
-[![LinkedIn](<i class="fa-brands fa-twitter"></i>)](https://www.linkedin.com/in/deematalat/)
-[![Twitter](/path/to/twitter/icon.png)](https://twitter.com/deema_talat)
-
 <br />
 
 ### Languages and Tools:
@@ -72,4 +66,5 @@ I'm excited to put my talents to work assisting you in realizing your ideas.
 [linkedin]: https://www.linkedin.com/in/deematalat/
 [twitter]: https://twitter.com/deema_talat
 [instagram]: https://www.instagram.com/deema_talat/
+
 The file contains a brief introduction of the author, deema talat, as well as information about his current work and interests. It also includes links to his website and social media profiles, as well as a list of the languages and tools he uses.
