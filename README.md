@@ -12,9 +12,9 @@ I'm a Flutter developer passionate about mobile and web development. I love work
 ### Connect with me:
 
 [<img align="left" alt="moomenaldahdouh.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="deema talat | LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />][linkedin]
-[<img align="left" alt="deema talat | Twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" />][twitter]
-[<img align="left" alt="deema talat | Instagram" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/instagram.svg" />][instagram]
+[<img align="left" alt="deema talat| LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />][linkedin]
+[<img align="left" alt="deema talat| Twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" />][twitter]
+[<img align="left" alt="deema talat| Instagram" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/instagram.svg" />][instagram]
 
 <br />
 
