@@ -4,7 +4,7 @@
 Thanks for visiting! I'm confident that you've found the right person for your project needs.
 I'm dedicated to delivering results that live up to your expectations,
 I'm excited about working together.
- <img scr="deematalat/Screenshots\Screenshot 2023-03-30 180956.png" alt="skills">
+ <img src="deematalat/Screenshots\Screenshot 2023-03-30 180956.png" alt="skills">
 here are my skills:
 
 ✅Animations
