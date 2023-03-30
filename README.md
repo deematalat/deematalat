@@ -73,6 +73,6 @@ I'm excited to put my talents to work assisting you in realizing your ideas.
 [linkedin]: https://www.linkedin.com/in/deematalat/
 [twitter]: https://twitter.com/deema_talat
 [instagram]: https://www.instagram.com/deema_talat/
-  <img src="TODOAPP/screenShots/todofram.png" alt="todo">
+ 
 
 The file contains a brief introduction of the author, deema talat, as well as information about his current work and interests. It also includes links to his website and social media profiles, as well as a list of the languages and tools he uses.
