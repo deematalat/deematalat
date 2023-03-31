@@ -75,8 +75,8 @@ I'm excited to put my talents to work assisting you in realizing your ideas.
 [instagram]: https://www.instagram.com/deema_talat/
   
 ## Examples of Word  Flutter 
-[<img src="Screenshots/movafram.png" width="200" alt="mova" />][Mova]
-[<img src="Screenshots/ecomfram.png" width="200"  alt="Flutter" />][Shaziy]
+[<img src="Screenshots/movafram.png" width="300" height="300" alt="mova" />]
+[<img src="Screenshots/ecomfram.png" width="200" height="300"  alt="Flutter" />]
   
 
 The file contains a brief introduction of the author, deema talat, as well as information about his current work and interests. It also includes links to his website and social media profiles, as well as a list of the languages and tools he uses.
