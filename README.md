@@ -50,12 +50,12 @@ I'm excited to put my talents to work assisting you in realizing your ideas.
 <br />
 
 ## Languages and Tools:
-[<img src="Screenshots/Google Dart.png" width="32" alt="Dart" />][dart]
-[<img src="Screenshots/Flutter.png" width="32" alt="Flutter" />][flutter]
-[<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_html.svg" width="32" alt="HTML" />][html]
-[<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_css.svg" width="32" alt="CSS" />][css]
+[<img src="Screenshots/Google Dart.png" width="40" alt="Dart" />][dart]
+[<img src="Screenshots/Flutter.png" width="40" alt="Flutter" />][flutter]
+[<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_html.svg" width="40" alt="HTML" />][html]
+[<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_css.svg" width="40" alt="CSS" />][css]
 [<img src="Screenshots/Firebase RTDB.png" width="32" alt="Firebase" />][firebase]
-[<img src="https://github.com/laravel/art/blob/master/laravel-logo.png" width="32" alt="Laravel" />][laravel]
+[<img src="https://github.com/laravel/art/blob/master/laravel-logo.png" width="40" alt="Laravel" />][laravel]
 
 [dart]: https://dart.dev/
 [flutter]: https://flutter.dev/
@@ -79,8 +79,6 @@ I'm excited to put my talents to work assisting you in realizing your ideas.
 <img src="Screenshots/movafram.png" width="400" height="300" alt="mova" />
 <img src="Screenshots/ecomfram.png" width="400" height="300"  alt="ecom" />
 <img src="Screenshots/quranfram.png" width="400" height="300" alt="mova" />
-  </div>
-    <div style="display: flex;">
 <img src="Screenshots/newsfram.png" width="400" height="300" alt="mova" />
 <img src="Screenshots/todofram.png" width="400" height="300" alt="mova" />
     </div>
