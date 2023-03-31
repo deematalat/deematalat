@@ -75,9 +75,11 @@ I'm excited to put my talents to work assisting you in realizing your ideas.
 [instagram]: https://www.instagram.com/deema_talat/
   
 ## Examples of Word  Flutter 
+  <div style="display: flex;">
 <img src="Screenshots/movafram.png" width="300" height="300" alt="mova" />
 <img src="Screenshots/ecomfram.png" width="200" height="400"  alt="ecom" />
 <img src="Screenshots/quranfram.png" width="300" height="300" alt="mova" />
+  </div>
 <img src="Screenshots/newsfram.png" width="300" height="300" alt="mova" />
 <img src="Screenshots/todofram.png" width="300" height="300" alt="mova" />
   
