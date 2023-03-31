@@ -2,7 +2,6 @@
 Hi there, I'm Deema 👋
 
 <h3> Flutter Developer & Laravel </h3>
-  Visit me here ===> https://deematalat.com
  
 <br />
  <img src="Screenshots/Screenshot 2023-03-30 180956.png" alt="skills">
