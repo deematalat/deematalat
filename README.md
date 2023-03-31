@@ -1,9 +1,9 @@
 
 Hi there, I'm Deema 👋
 
-<h2> Flutter Developer & Laravel <h2/>
+<h3> Flutter Developer & Laravel </h3>
   Visit me here ===> https://deematalat.com
-<br />
+ 
 <br />
  <img src="Screenshots/Screenshot 2023-03-30 180956.png" alt="skills">
  <br /> 
@@ -12,7 +12,7 @@ Thanks for visiting! I'm confident that you've found the right person for your p
 I'm dedicated to delivering results that live up to your expectations,
 I'm excited about working together.
 
-# here are my skills:
+<h3> here are my skills:</h3>
 
 ✅Animations
 
@@ -38,7 +38,7 @@ I'm passionate about this industry, and by devoting the majority of my time to i
 I'm able to provide outcomes that are above and beyond project objectives.
 I'm excited to put my talents to work assisting you in realizing your ideas.
 
-### Working with you will be an absolute pleasure.
+<h3> Working with you will be an absolute pleasure.</h3>
 
 ## Skills and Experience
 
