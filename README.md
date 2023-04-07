@@ -3,7 +3,7 @@ Hi there, I'm Deema 👋
 
 <h3> Flutter Developer & Laravel </h3>
  
-<a href="https://deematalat.github.io/deematalat/">Click here to visit website</a>
+<a href="https://deematalat.github.io/deematalat/">Click here to visit my website</a>
 
  
 <br />
