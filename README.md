@@ -1,7 +1,7 @@
 
 Hi there, I'm Deema 👋
 
-<h3> Flutter Developer & Laravel </h3>
+<h3> Flutter Developer & Nodejs </h3>
  
 <a href="https://deematalat.github.io/deematalat/">Click here to visit my website</a>
 
