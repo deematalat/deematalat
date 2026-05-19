@@ -63,9 +63,8 @@ and turning data into meaningful insights through analysis and visualization.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deematalat&show_icons=true&theme=tokyonight" alt="Deema's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deematalat&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/deematalat?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/deematalat?style=for-the-badge&color=yellow" />
 </p>
 
 ---
